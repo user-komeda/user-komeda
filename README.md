@@ -1,4 +1,4 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=user-komeda&left_color=gray&right_color=blue)
+![](https://komarev.com/ghpvc/?username=user-komeda)
 
 
 <p align="left"> 
